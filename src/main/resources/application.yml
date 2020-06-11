@@ -1,3 +1,7 @@
 server:
-  port: 8080
-  context-path: /zhuxl
+  port: 8888
+
+chart:
+  phantomjs:
+    path: ${JS_PATH:D:\temp}
+    temp: ${WORK_PATH:D:\temp}

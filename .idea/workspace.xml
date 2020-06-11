@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1155fa2-1464-4c81-b38a-c9dcbdf79b3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/izbk/export/ExportApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/component/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/izbk/export/component/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/configuration/SwaggerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/controller/ReportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/entity/ReportContentRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/entity/ReportExportWordRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/service/ReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/service/impl/ReportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhuxl/exportdoc/util/WordGeneratorUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/request_params_poverty.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../devtools/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\devtools\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bC7xCMHNzvFYJxLtiC3la8l1Br" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.izbk.export.enums" />
+      <recent name="io.github.izbk.export.util" />
+      <recent name="io.github.izbk.export.vo" />
+      <recent name="io.github.izbk.export.service.impl" />
+      <recent name="io.github.izbk.export.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\export-echarts" />
+      <recent name="D:\export-echarts\src\main\resources\js" />
+      <recent name="D:\export-echarts\src\main\resources\freemarker\template" />
+      <recent name="D:\export-echarts\src\main\java\io\github\izbk\export\vo" />
+      <recent name="D:\export-doc\src\main\resources\freemarker\template" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="export-doc" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ExportApplication">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhuxl.exportdoc.Application" />
+      <module name="export-echart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhuxl.exportdoc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhuxl.exportdoc.util.GenerateUtils" />
+      <module name="export-echart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhuxl.exportdoc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="export-echart" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="export-echart" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="export-echart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhuxl.exportdoc.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExportApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="export-echarts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.izbk.export.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.izbk.export.ExportApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ExportApplication" />
+        <item itemvalue="Application.GenerateUtils" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1155fa2-1464-4c81-b38a-c9dcbdf79b3d" name="Default Changelist" comment="" />
+      <created>1588124466138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588124466138</updated>
+      <workItem from="1588124476087" duration="8414000" />
+      <workItem from="1588140349046" duration="17802000" />
+      <workItem from="1588814058172" duration="16554000" />
+      <workItem from="1588901239174" duration="11744000" />
+      <workItem from="1588986406237" duration="19366000" />
+      <workItem from="1589269185907" duration="3667000" />
+      <workItem from="1591780873717" duration="322000" />
+      <workItem from="1591781203892" duration="11000" />
+      <workItem from="1591781324057" duration="3976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1588154104818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588154104818" />
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591781823345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591781823345" />
+    <state x="740" y="217" key="FileChooserDialogImpl" timestamp="1588147467768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588147467768" />
+    <state width="1340" height="430" key="GridCell.Tab.0.bottom" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.0.center" timestamp="1591840662241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662241" />
+    <state width="1340" height="430" key="GridCell.Tab.0.left" timestamp="1591840662241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662241" />
+    <state width="1340" height="430" key="GridCell.Tab.0.right" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.1.bottom" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.1.center" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.1.left" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.1.right" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.2.bottom" timestamp="1591840662243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662243" />
+    <state width="1340" height="430" key="GridCell.Tab.2.center" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.2.left" timestamp="1591840662242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662242" />
+    <state width="1340" height="430" key="GridCell.Tab.2.right" timestamp="1591840662243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="430" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591840662243" />
+    <state x="600" y="216" key="NewModule_or_Project.wizard" timestamp="1588147469512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="216" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588147469512" />
+    <state x="739" y="229" key="RollbackChangesDialog" timestamp="1591842019925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="229" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591842019925" />
+    <state x="440" y="93" key="SettingsEditor" timestamp="1591781360990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591781360990" />
+    <state x="681" y="249" width="564" height="524" key="StructurePopup" timestamp="1588832921620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="249" width="564" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1588832921620" />
+    <state x="538" y="120" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591842196347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="538" y="120" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591842196347" />
+    <state x="690" y="272" key="extract.method.dialog" timestamp="1588152795920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="272" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588152795920" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1591780934741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591780934741" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588146206618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588146206618" />
+  </component>
+</project>

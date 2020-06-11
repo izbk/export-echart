@@ -1,0 +1,15 @@
+
+>	java:S1084")Either remove or fill this block of code.(”ý¾
+>	java:S108:")Either remove or fill this block of code.(ï­£Ä
+e
+java:S2674("JCheck the return value of the "read" call to see how many bytes were read.(âôÎÜÿÿÿÿÿ
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëœÎµ
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Þš»š
+t
+java:S14882"^Immediately return this expression instead of assigning it to the temporary variable "entity".(ëœÎµ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(‹åÑÉ
+E
+java:S2093%"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
