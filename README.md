@@ -1,3 +1,4 @@
+# echarts图导出报表
 ## 1.安装配置phantomjs
 ### 1.1下载
 https://phantomjs.org/download.html
@@ -16,5 +17,3 @@ chart:
 ```
 ### 1.4 配置必须的运行环境
 将echarts-convert.js、echarts.js、jquery.js复制到WORK_PATH目录中
-
-
