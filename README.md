@@ -16,4 +16,3 @@ chart:
     path: ${WORK_PATH:D:\temp}
 ```
 ### 1.4 配置必须的运行环境
-将echarts-convert.js、echarts.js、jquery.js复制到WORK_PATH目录中
